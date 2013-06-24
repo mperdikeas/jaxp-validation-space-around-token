@@ -1,7 +1,0 @@
-predecessor:
-../12-enumeration-validation-solution-not-trying-with-latest-metro-from-site/
-
-
-After being told by Iaroslav (https://java.net/jira/browse/JAXB-964) that this is probably
-a JAXP and not a JAXB bug I am trying in this step to reproduce the validation failure
-using only standard JDK validation code (no JAXB) so I can post it on JAXP.
